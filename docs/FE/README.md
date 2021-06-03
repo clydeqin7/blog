@@ -15,7 +15,7 @@ lastUpdated: false
 
 ## [CSS](./CSS/README.md)
 
-## [CSS](./VUE/README.md)
+## [Vue](./VUE/README.md)
 
 
 
