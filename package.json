@@ -1,0 +1,15 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "clydeqin7's blog",
+  "main": "index.js",
+  "author": "clydeqin7 <clydeqin7@foxmail.com>",
+  "license": "CC-BY-NC-ND-4.0",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.32"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
