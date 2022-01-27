@@ -6,6 +6,7 @@ export default defineUserConfig<DefaultThemeOptions>({
   title: 'fe4fun',
   description: 'blog',
   head: [['link', { rel: 'icon', href: '/images/favicon.ico' }]],
+  base: '/blog/',
   themeConfig: {
     navbar: [
       { text: '首页', link: '/' },
