@@ -1,0 +1,1 @@
+const e={key:"v-596e10e3",path:"/FE/CSS/",title:"CSS",lang:"en-US",frontmatter:{sidebar:"auto",editLink:!1,lastUpdated:!1},excerpt:"",headers:[],git:{updatedTime:1643248354e3},filePathRelative:"FE/CSS/README.md"};export{e as data};
