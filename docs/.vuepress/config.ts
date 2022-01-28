@@ -11,7 +11,7 @@ export default defineUserConfig<DefaultThemeOptions>({
     navbar: [
       { text: '首页', link: '/' },
       {
-        text: '前端',
+        text: '前端技术',
         children: [
           {
             text: 'JavaScript', link: '/FE/JS/'
@@ -38,8 +38,8 @@ export default defineUserConfig<DefaultThemeOptions>({
     // 默认是 false, 设置为 true 来启用
     editLinks: true,
     // 默认为 "Edit this page"
-    editLinkText: '帮助我改善此页面!',
-    lastUpdatedText: '上次更新:',
+    editLinkText: 'Edit this page on GitHub',
+    contributors: false,
     lastUpdated: true,
   },
 })

@@ -1,6 +1,6 @@
 ---
 sidebar: auto
-title: JavaScript
+title: Vue
 editLink: false
 lastUpdated: false
 ---

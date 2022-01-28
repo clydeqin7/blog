@@ -1,11 +1,11 @@
 ---
 sidebar: auto
-title: 前端分类导航
+title: 前端技术
 editLink: false
 lastUpdated: false
 ---
 
-# 前端
+# 前端技术
 
 分类导航
 
