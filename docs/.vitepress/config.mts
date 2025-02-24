@@ -47,6 +47,8 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+    ],
+
+    base: '/blog/' // 替换为你的仓库名称
   }
 })
