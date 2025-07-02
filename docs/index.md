@@ -4,21 +4,21 @@ layout: home
 
 hero:
   name: "fe4fun"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  text: "A digital garden"
+  tagline: 🖖 🌏 ！
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 代码
+      link: /code/index
+    # - theme: alt
+      # text: API Examples
+      # link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 代码
+    details: 用优雅的代码，为世界写下温柔的解决方案
+  - title: 财富
+    details: 在数字的韵律中，寻找与财富的和谐共处
+  - title: 烟火
+    details: 书页间的星光，终将照亮生活的每个日常
 ---
