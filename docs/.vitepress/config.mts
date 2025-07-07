@@ -18,7 +18,7 @@ export default defineConfig({
         {
           text: 'Code',
           items: [
-            { text: 'Index', link: '/code/' },
+            { text: '文章索引', link: '/code/' },
           ]
         }
       ],
